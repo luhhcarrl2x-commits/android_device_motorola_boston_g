@@ -29,7 +29,7 @@ PRODUCT_NAME := lineage_boston
 PRODUCT_DEVICE := boston
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := moto g stylus 5G - 2024
+PRODUCT_MODEL := boston_G
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
