@@ -29,11 +29,11 @@ PRODUCT_NAME := lineage_boston
 PRODUCT_DEVICE := boston
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := boston_Gos
+PRODUCT_MODEL := boston_G
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct="boston_g" \
     BuildDesc="boston_g-user 15 V1UBS35H.97-24-16 551d6-ff860 release-keys" \
-    BuildFingerprint="motorola/boston_g/boston:15/V1UBS35H.97-24-16/551d6-ff860:user/release-keys"
+    BuildFingerprint="motorola/boston_g/boston:15/V1UBS35H.97-24-16/551d6-ff860:user/release-keys""
