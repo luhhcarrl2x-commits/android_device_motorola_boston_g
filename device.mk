@@ -77,11 +77,6 @@ PRODUCT_PACKAGES += \
     Tag
 
 
-# PowerShare
-PRODUCT_PACKAGES += \
-    vendor.lineage.powershare-service.default
-
-
 # Fingerprint
 PRODUCT_PACKAGES += \
     libshim_fp
