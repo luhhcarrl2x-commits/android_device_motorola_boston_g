@@ -76,15 +76,16 @@ PRODUCT_PACKAGES += \
     com.android.nfc_extras \
     Tag
 
+
 # PowerShare
 PRODUCT_PACKAGES += \
     vendor.lineage.powershare-service.default
+
 
 # Fingerprint
 PRODUCT_PACKAGES += \
     libshim_fp
 	
-$(call soong_config_set,lineage_powershare,powershare_path,/sys/class/power_supply/wireless/device/tx_mode)
 
 # Properties
 PRODUCT_PACKAGES += \
